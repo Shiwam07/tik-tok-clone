@@ -1,0 +1,1 @@
+export { VideoFooter } from "./VideoFooter";
